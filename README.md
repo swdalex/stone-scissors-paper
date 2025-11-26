@@ -1,10 +1,10 @@
-# rock-paper-scissors
+# Stone-Scissors-Paper
 Simple game with Spring Boot Backend and an Angular Frontend
 
 ## Folder structure
 
 ```
-rock-paper-scissors/
+stone-scissors-paper/
 ├── backend/          # Spring Boot application
 ├── frontend/         # Angular application
 ├── docker/           # Docker configurations
