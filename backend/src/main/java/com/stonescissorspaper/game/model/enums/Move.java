@@ -3,9 +3,9 @@ package com.stonescissorspaper.game.model.enums;
 import com.fasterxml.jackson.annotation.JsonValue;
 
 public enum Move {
-    STONE("stone"),
-    SCISSORS("scissors"),
-    PAPER("paper");
+    STONE("STONE"),
+    SCISSORS("SCISSORS"),
+    PAPER("PAPER");
 
     private final String value;
 
